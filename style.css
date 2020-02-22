@@ -1,0 +1,58 @@
+.header{
+    background-image: url(Vector%20Smart%20Object@1X.png);
+    width: 100%;
+    float: left;
+}
+}
+.main{
+    float: left;
+}
+.navigation{
+    width: 100%;
+    float: left;
+}
+.reg:hover{
+    border: 3px solid white;
+    border-radius: 50px;
+}
+.reg{
+    display: inline-block;
+    float: left;
+    text-decoration: none;
+ 
+    
+}
+.reg a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+ 
+    
+}
+.registration1{
+    position: absolute;
+    top: 4%;
+    right: 10%;
+}
+.registration2{
+    position: absolute;
+    top: 4%;
+    right: 16%;
+}
+h1{
+    position: absolute;
+    top: 20%;
+    right: 37%;
+}
+p{
+    position: absolute;
+    top: 27%;
+    right: 41%;
+}
+h4{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    top: 4%;
+    right: -9%
+}
